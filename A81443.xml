@@ -1,0 +1,429 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue, or, Rather a parley betweene Prince Ruperts dogge whose name is Puddle, and Tobies dog whose name is Pepper, &amp;c. VVhereunto is added the challeng which Prince Griffins dogg called Towzer, hath sent to Prince Ruperts dogg Puddle, in the behalfe of honest Pepper Tobies dog. Moreover the said Prince Griffin is newly gone to Oxford to lay the wager, and to make up the match.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81443</idno>
+            <idno type="STC">Wing D1369</idno>
+            <idno type="STC">Thomason E246_23</idno>
+            <idno type="STC">ESTC R19016</idno>
+            <idno type="EEBO-CITATION">99860539</idno>
+            <idno type="PROQUEST">99860539</idno>
+            <idno type="VID">158386</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81443)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158386)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E246[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue, or, Rather a parley betweene Prince Ruperts dogge whose name is Puddle, and Tobies dog whose name is Pepper, &amp;c. VVhereunto is added the challeng which Prince Griffins dogg called Towzer, hath sent to Prince Ruperts dogg Puddle, in the behalfe of honest Pepper Tobies dog. Moreover the said Prince Griffin is newly gone to Oxford to lay the wager, and to make up the match.</title>
+                  <author>Taylor, John, 1580-1653,</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>for I. Smith,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Taylor in the Wrenn catalogue.</note>
+                  <note>A satire.</note>
+                  <note>"Towzer" = Sir Roger L'Estrange: "On 17 Nov. 1680 he [L'Estrange] was burnt in effigy by the London mob, who gave him the sobriquet of the 'Dog Towzer', apparently in reference to reports of L'Estrange's immoralities". (Cf. DNB).</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Feb: 23 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682 --  Humor --  Early works to 1800.</term>
+               <term>L'Estrange, Roger, --  Sir, 1616-1704 --  Humor --  Early works to 1800.</term>
+               <term>Royalists --  England --  History --  17th century --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158386:1" rendition="simple:additions"/>
+            <p>A DIALOGVE, OR, Rather a Parley betweene Prince <hi>Ruperts</hi> Dogge whoſe name is <hi>PVDDLE,</hi> and <hi>Tobies</hi> Dog whoſe name is <hi>PEPPER</hi> &amp;c.</p>
+            <p>VVhereunto is added the Challeng which Prince <hi>Griffins</hi> Dogg called <hi>Towzer,</hi> hath ſent to Prince <hi>Ruperts</hi> Dogg <hi>Puddle,</hi> in the behalfe of honeſt Pepper <hi>Tobies</hi> Dog.</p>
+            <p>Moreover the ſaid Prince <hi>Griffin</hi> is newly gone to Oxford to lay the wager, and to make up the MATCH.</p>
+            <figure>
+               <figDesc>depiction of Roundheads and Cavaliers, setting their dogs on each other</figDesc>
+               <figure>
+                  <head>Roudhead cuirr</head>
+                  <figDesc>Roundhead dog</figDesc>
+               </figure>
+               <sp>
+                  <p>To him pudel.</p>
+               </sp>
+               <figure>
+                  <head>Cauilier Dog</head>
+                  <figDesc>Cavalier dog</figDesc>
+               </figure>
+               <sp>
+                  <p>Bite him<g ref="char:punc">▪</g> peper</p>
+               </sp>
+            </figure>
+            <p>Printed at London for <hi>I. Smith,</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:158386:2"/>
+            <head>A Dialogue or rather a Par<g ref="char:EOLhyphen"/>ley between Prince <hi>Ruperts</hi> Dog whoſe name is <hi>Puddle,</hi> and <hi>Tobies</hi> Dog whoſe name is <hi>Pepper,</hi> &amp;c.</head>
+            <stage>
+               <hi>Prince</hi> RVPERTS <hi>Dog.</hi>
+            </stage>
+            <p>
+               <seg rend="decorInit">W</seg>Hat yelping whindling Puppy Dog art thou?</p>
+            <sp>
+               <speaker>Tobies Dog.</speaker>
+               <p>What bauling Shag-haird Cavalliers Dogge art thou?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Pr.</hi> Rob: <hi>Dog.</hi>
+               </speaker>
+               <p>Thou ar a dogged ſir or Cur, grumble no more, but tell me thy name.</p>
+            </sp>
+            <sp>
+               <speaker>Tob: Dog.</speaker>
+               <p>I was called <hi>Tobies</hi> houſe-dog, the Dog which <hi>Walker</hi> the Iron-monger ſo often commends for a mannerly and well bred Dog in his ſeverall ſub-lectures; my name is <hi>Pepper.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Pr.</hi> Rob: <hi>Dog.</hi>
+               </speaker>
+               <p>Though your zeal be never ſo hot, you ſhall not bite me <hi>Pepper.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tob. Dog.</speaker>
+               <p>He bark before I bite, and talke before I fight, I heare you are Prince <hi>Ruperts</hi> white Boy.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>P.</hi> Rub: <hi>Dog.</hi>
+               </speaker>
+               <p>I am none of his white Boy, my name is <hi>Puddle.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tob. Dog.</speaker>
+               <p>A dirty name indeed, you are not pure enough for my com<g ref="char:EOLhyphen"/>pany, beſides I hear on both ſides of my <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ares that you are a Lap-lander or Fin-land Dog, or truly no better then a witch in the ſhape of a white Dogge.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Pr.</hi> Rob: <hi>Dog.</hi>
+               </speaker>
+               <p>And thou art a Round-headed puppy, a fooliſh ſnarling Cur, that doth baule and rayle whereſoever thou commeſt: doſt thou pre<g ref="char:EOLhyphen"/>ſume to confront me with thy ignorant ſpirit and prick-eares?</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:158386:2"/>
+               <speaker>Tob. Dog.</speaker>
+               <p>Thou art a proſane Annimall; <hi>Tobies</hi> Dog is of a better, and more reformed condition.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Pr.</hi> Rob: <hi>Dog.</hi>
+               </speaker>
+               <p>A halter would reforme thee exceeding well, for thou art a cur that wilt barke againſt all people, nay thou art a rebellious dog, and wilt barke againſt the King, thou doſt make a ſtir and a ſtink where<g ref="char:EOLhyphen"/>ſoever thou commeſt, thou art <hi>Walkers</hi> Dog rather then <hi>Tobies</hi> Dog, thou and thy Maſters deſerve nothing but a halter.</p>
+            </sp>
+            <sp>
+               <speaker>Tob. Dog. Puddle;</speaker>
+               <p>Come not neer me; for I can grin and bite and that boldly, though thou look like a Lyon with long ſhag haire, yet I fear thee not bragging Courtier, thou popiſh profane Dog, thou art more then halfe a divell, a kind of a ſpirit that doth helpe Colledges to their loſt. ſpoons and two-eard pots, when they are loſt or ſtolne.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Pr.</hi> Rob. <hi>Dog.</hi>
+               </speaker>
+               <p>Thou art a kind of ſpirit too, doſt thou not bewitch the Sectaries to bring in Salts, Whiſtle, and Bodkine into Religious Lot<g ref="char:EOLhyphen"/>teries, from whence I feare they ſhall draw nothing but blankes for their zealous affection towards the cauſe.</p>
+            </sp>
+            <sp>
+               <speaker>Tob. Dog.</speaker>
+               <p>Thou doſt belye the zealous brethren who being provoked and ſtirred up by the Spirit, thou wouldſt needs make me the perſwader to this religious liberty: alas I know nothing of Citie affairs, I trouble not my head with ſuch matters, nor do I ſpeak Heathen languages as you can doe.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Pr.</hi> Rob. <hi>Dog.</hi>
+               </speaker>
+               <p>Sirrah, I am none of your litter nor kind; I ſcorn to come in compoſition with ſuch a baſo dog as thou art;</p>
+            </sp>
+            <sp>
+               <speaker>Tob. Dog.</speaker>
+               <p>You are of <hi>Brackley</hi> breed, better to hang then to keep.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Pr.</hi> Rob. <hi>Dog.</hi>
+               </speaker>
+               <p>No Sirrah, I am of a high Germain breed;</p>
+            </sp>
+            <sp>
+               <speaker>Tob. Dog.</speaker>
+               <p>Thou art a Reprobate, and a lying Curre; you were either whelpt in Lap-land, or elſe in Fin-land; where there is none but divells and Sorcerers live.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Pr.</hi> Rob. <hi>Dog.</hi>
+               </speaker>
+               <p>But thou haſt been a friend to Tub Lecturers, there is a number of Fellows that will expound by private ſpirit, and think the beſt colour for their knavery is <hi>Greene,</hi> and yet they have no more languages or learning then thou haſt, but they are dogged duntes that will bark and baule in a Pulpit, didſt not thou infect <hi>Hunt</hi> the Prophet and made him rave and talk, I will not ſay preach, untill the Roaſt-beefe be burnt upon the Cooks ſpits and be almoſt one a clock.</p>
+            </sp>
+            <sp>
+               <speaker>Tob. Dog.</speaker>
+               <p>I deny thy words, for while hee is preaching I am in the chimney corner ſleeping, I heare not a word nor care for hearing any: but it is well known that when the Kings Counſell are perſwading His Majeſty to an Accommodation with his Parliament, thou being an ene<g ref="char:EOLhyphen"/>my to peace and all the Parliaments good purpoſes, comſt in, and pre<g ref="char:EOLhyphen"/>ſently
+<pb facs="tcp:158386:3"/>they ſpeake of blood and war, and the deſtruction of London, as if they were bewitcht by thy preſence.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Pr.</hi> Rob. <hi>Dog.</hi>
+               </speaker>
+               <p>Nay if you talke of bewitching, who made the Appren<g ref="char:EOLhyphen"/>tices and that great dogged tumult that hurried to Weſt minſter grinning and ſnarling at all they met, and barking aloud, no Biſhops, no Biſhops? which put the King at White-Hall into ſuch a fright, that hee preſently left the City full of nothing but zealous <hi>Tobies</hi> and factions Sectaries, and ſo went to Yorke to be more ſafe and ſecure from the rude company of pricke-eares: did not thy dogged ſpirit tranſmigrate into their plump fat bodies, and made them run like a kennell of hounds upon a hot ſent crying they knew not what.</p>
+            </sp>
+            <sp>
+               <speaker>Tob. Dog.</speaker>
+               <p>I was ignorant of their purpoſes, and ſtaid behind, for had I been willing to have been ſeen in the action, I would have runne before them as doggs uſe to do, but I remember I kept houſe all that day ſo me<g ref="char:EOLhyphen"/>lancholy, and was very ſorry to ſee my maſters ſo madde: But ſince you caſt dirt at me, I will fling you a bone to know, it is known that at Edg<g ref="char:EOLhyphen"/>hill you walke inviſible, and directed the bullets who they ſhould hit, and who they ſhould miſſe, and made your Mr. Prince <hi>Rupert</hi> ſhott-free, and it is known that you would rather heare Maſſe at Oxford, then come to any private prayers or conſcionable Sermons: And at the delivery of the City Petition, you ſhewd your ſelfe a very malignant Dog, and trod on the Kings Majeſtys toe, and your Mr. Prince <hi>Rupert</hi> ſo earneſtly, as if you would have ſaid that you like not that the King ſhould return to Lon<g ref="char:EOLhyphen"/>don without his Army, and thus thou haſt proved thy ſelfe a Caval<g ref="char:EOLhyphen"/>liers Dogge.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Pr.</hi> Rob. <hi>Dog.</hi>
+               </speaker>
+               <p>Sirrah lick-diſh, incenſe me no more, for though my ſhaggy haire be white, it is not ſilver'd ever with age, it is my naturall colour, and I am ſtrong enough to teare thee in pieces, but I'le bite thee deep with true words, If I ſhould as thee how thou liveſt, ſhould I not find that thou art the Sectaries familiar Dogge, and what are thy Ma<g ref="char:EOLhyphen"/>ſter, but neceſſitous and full of debts, thou pickeſt up crums under them, and they gaine all under the ſervice of the cauſe and Common-wealth.</p>
+            </sp>
+            <sp>
+               <speaker>Tob. Dog.</speaker>
+               <p>Sirrah Dog: I ſerve good honeſt men, ſuch as be Colonells, Captaines, and chiefe Commanders.</p>
+            </sp>
+            <sp>
+               <speaker>P.R. Dog</speaker>
+               <p>I think you are any bodies Dog you lick up crums under any rou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d table, you have priviledg to come to the houſe of any of the princes of the <hi>Militin,</hi> and there to know bonee and get ſcraps, Some of your Maſters were not worth to my knowledg three yeares ſince, no above 5. l. if all their debts were paid, that now have 3. l. a day, others 40. s. a day, others 20. s. and ſome 15. s. a day; how many of them before this
+<pb facs="tcp:158386:3"/>buſineſſe broke in a morning, and compounded within a month for a noble in the pound: and doſt thou poor ſilly Dog thinke that theſe noble Princes wil once hearken or conclude to a peace; if they can have ſuch pay and ſuch gaines for nothing: many of them not worth a dog; and now who but they and their wives, that appeare in their ſeverall and changeable ſuites of apparrell, and ſhine like <hi>Iove</hi> and <hi>Juno.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tob. Dog.</speaker>
+               <p>Sirrah, let my brave Maſters alone; tell me not what they were, but what they are: They are now brave Gentlemen: leave your rayling, or elſe I will ſend but a word of my mouth and I will have a Re<g ref="char:EOLhyphen"/>giment of Red-coats, and a Troop of horſe, that ſhall quallifie your dog<g ref="char:EOLhyphen"/>ged humour, and make you ſpeake better words of them.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Pr.</hi> Rob. <hi>Dog.</hi>
+               </speaker>
+               <p>I care not for your leather troops of horſe, nor for your red-cotten fouldiers; I can match your beſt Troops when you dare and where you dare; I would have thee know that I ſerve and at<g ref="char:EOLhyphen"/>tend upon a noble King, four Princes, three Dukes, two Marqueſſes, fifty Earles, 200. Lords and Vicounts, 300. Barons, 700. Knights, and 1100 Eſquires and Gentlemen, beſides common Soul<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iers: Theſe are no bro<g ref="char:EOLhyphen"/>ken Lords, nor crackt Citizens; they ſerve in perſon and without pay, nay they beare their own charges, all out of love and loyalty to their K. and Country: But few of your Maſters durſt ever ſhew their faces till this reformed time; but held down their heads like bul-ruſhes; and walked up and down by night: how many hundred do you thinke, Mr. dog, that his Majeſty hath now in a liſt or a catalogue of their names of ſuch ſtout Finsbury field ſouldiers, and weak conditioned men in eſtates, above 300 of them I will aſſure you; whom his Majeſty wil one day remember.</p>
+            </sp>
+            <sp>
+               <speaker>Toby Dog.</speaker>
+               <p>Good <hi>Puddle,</hi> be not ſo envious and ſo malicious, thus to r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ile of them you do not know, be not ſtill of that dogged mungrell diſ<g ref="char:EOLhyphen"/>poſition good <hi>Puddle.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Pr.</hi> Rob: <hi>Dog.</hi>
+               </speaker>
+               <p>Thou haſt a good memory, though thou haſt but ſhort haire, to remember my name: yet ſome call me <hi>Boy,</hi> but my name is <hi>Puddle:</hi> And I can do ſtrange things, and change my ſelfe into many ſhapes: I come into your City divers times, and heare the common votes of the vulgar, then I go to the Ordinaries and take notice what newes paſſes there for current, any one may almoſt diſcover me if they doe but touch me, I do to grumble and am of the dogged diſpoſition, and if any one obſerve or hear a Gentleman call for a diſh of broth, and his Ordinary of Rumps and Kidneyes, they may be aſſured it is I; The other night for gi<g ref="char:EOLhyphen"/>ving of two pence to a red bearded fellow one Mr. <hi>P<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es</hi> who was made Corporal for that night, who then ſtood neer the Exchang, I had the word given mee by him, and I paſt freely: Another time I paſt by the watch
+<pb facs="tcp:158386:4"/>like a Fidler, and was never examined; and ſo likewiſe for a ſmall mat<g ref="char:EOLhyphen"/>ter at your Court of Guards, for all your vigilant Sentinells.</p>
+            </sp>
+            <sp>
+               <speaker>Toby Dog.</speaker>
+               <p>O intollerable; if the City be not looked too better, wee ſhall be all betrayed.</p>
+            </sp>
+            <sp>
+               <speaker>Pr. Rup. Dog.</speaker>
+               <p>Nay more then this can I doe, and have done, at the Iaſt generall meeting at <hi>Guild-Hall,</hi> I hired <hi>Arthur Shuttle</hi> a Procters Clerk to go into Long-lane and procure an Aldermans gowne, and come to <hi>Guild-Hall,</hi> though it was ſo narrowly looked to, to get in, and there by his meanes to beget a faction, and ſo a tumult, and at length to have faln to blows amongſt your ſelves, that our Army in the meane time might have come in and plaid their part to the purpoſe. It was I that cauſed that mercinary fellow <hi>Robert Blague</hi> to write letters of intelligence between both Armies, and for his reward he had 50. pound a moneth from each Army: I perſwaded <hi>Blague</hi> to give intelligence to the Earle of Eſſex in what part of the army the Kings beſt Regiment was placed, and in what place the Lord Generall would bee at the fight, and where the Kings Standard would be placed. Then on the other ſide I put it into the heart of the Kings ſouldiers after the firſt fireing to fall to pillaging and plun<g ref="char:EOLhyphen"/>dering the Earl of Eſſex his Coach and Waggons where all his treaſure was to pay his ſouldiers, which the did, and in plundering the Coach, there was the miſcreant <hi>Blagues</hi> letter found with his name at it of the former intelligence, which was taken and carried to the King, which the King ſaw and read, for which <hi>Blague</hi> had his juſt reward, even a rope; with chains to boot.</p>
+               <p>I adviſed Mr. <hi>Maſton</hi> who is the Earl of <hi>Carnarvans</hi> Chaplain to make that book which our army do ſo hug and laugh at, called the <hi>Complaint to the Houſe of Commons:</hi> I put it into ſome of the malignant Citizens heads, as your Maſters call them, to ſurprize the Tower, and to get al the Ordnance into their poſſeſſion: but that failing, I have ſhewed them ano<g ref="char:EOLhyphen"/>ther ſtratagem how to be revenged on the City for their Robellion; you may ſee <hi>Pepper</hi> what power and skill I have in magicke Spells; Nay though the Gentleman did preach not above a week before the Houſe of Commons, but his Sermon being not liked, and he little or no thanks be<g ref="char:EOLhyphen"/>ſtowed on him, I wiſhed him to write that invective book: I have done divers of theſe exploits, and have many more plots yet undiſcovered.</p>
+            </sp>
+            <sp>
+               <speaker>Toby Dog.</speaker>
+               <p>Learned Mr. <hi>Puddle</hi> do but reveal ſome of theſe plots to me and I will ever be your creature.</p>
+            </sp>
+            <sp>
+               <speaker>Pr. Rup. Dog.</speaker>
+               <p>
+                  <hi>Pepper,</hi> take but your oath that you will not diſcover it till ſuch a time, and I will:</p>
+            </sp>
+            <sp>
+               <speaker>Toby Dog.</speaker>
+               <p>I will ſwear any thing you will have me to do.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:158386:4"/>
+               <speaker>Pr. Rup. Dog.</speaker>
+               <p>You ſhall take the new oath which our Cavalliers do give to all the priſoners which they took at <hi>Ciceſter,</hi> before they go away from <hi>Oxford</hi> which if you doe, I will then reveal the plot.</p>
+            </sp>
+            <sp>
+               <speaker>Toby Dog.</speaker>
+               <p>I have taken i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and ſworn to the oath.</p>
+            </sp>
+            <sp>
+               <speaker>Pr. Rup. Dog.</speaker>
+               <p>Then this is the plot. The next high or ſpring tide, when the moon is at the full, wil your City be drowned, and I will tel you how vand which way: The City malignants do intend to under-mine the Ri<g ref="char:EOLhyphen"/>der of <hi>Thames,</hi> and it is to be begun on Seuthwark ſide, and when it is un<g ref="char:EOLhyphen"/>dermined, to lay in 1000. barrells of Gun-powder, 500. barres of Iron, and 600. tun of Stones; and when the tyde or water is at the higheſt, then to ſet fire on the Gun-powder and blow up the River and ſo drown the City and all the Round-heads; and for the Malignants they ſhal have all notice of it before; and ſhall be known by their white tybonds about their riſts; only I have given <hi>Iohn Taylor</hi> the Water-Poet notice of it, to ſave himſelfe by his boate, or be in ſome other place at that time and ſeaſon, becauſe hee is my Maſters Vncles ancient ſervant, and a good Fellow.</p>
+            </sp>
+            <sp>
+               <speaker>Toby Dog.</speaker>
+               <p>I begin to halt in my opinion, and would be willingly con<g ref="char:EOLhyphen"/>verted, I get nothing here but at great mens houſes, and now Lent is comming I ſhall loſe my fat, amongſt the Round-heads; for they cate up all, and leave me nothing unleſſe I can fill my belly with the ſmell of meate, they are expounders and Teachers, but I deſire to be better ſedd then taught.</p>
+            </sp>
+            <sp>
+               <speaker>P. Rup. Dog.</speaker>
+               <p>Then follow my counſell, change your affections, &amp; when you ſee a Round-head, barke at him as he walks along the ſtreets.</p>
+            </sp>
+            <sp>
+               <speaker>Toby Dog.</speaker>
+               <p>So I may have by brains beat out.</p>
+            </sp>
+            <sp>
+               <speaker>P. Rup. Dog.</speaker>
+               <p>Then convey your ſelfe down to Oxford, but firſt you muſt do as I inſtruct you, and recant your errours, and both ſay and doe as I in<g ref="char:EOLhyphen"/>ſtruct you; and I will give you an inviſible ſhape, ſo that none ſhall ſee you if you pleaſe.</p>
+            </sp>
+            <sp>
+               <speaker>Toby Dog.</speaker>
+               <p>I am your ſervant to run at your command.</p>
+            </sp>
+            <sp>
+               <speaker>P. Rup. Dog.</speaker>
+               <p>Firſt you muſt deny all Round-heads.</p>
+            </sp>
+            <sp>
+               <speaker>Toby Dog.</speaker>
+               <p>I deny and defie all Round-heads.</p>
+            </sp>
+            <sp>
+               <speaker>P. Rup. Dog.</speaker>
+               <p>I defie all Tub-lecturers.</p>
+            </sp>
+            <sp>
+               <speaker>Toby Dog.</speaker>
+               <p>All Tub-lecturers I defie.</p>
+            </sp>
+            <sp>
+               <speaker>Pr. Rup. Dog.</speaker>
+               <p>I will barke againſt all Conventicles, and never love any Browniſt or any of the zealous Brethren, but from the teeth outwards.</p>
+            </sp>
+            <sp>
+               <speaker>Toby Dog.</speaker>
+               <p>I will always be Inapping and ſnarling at them.</p>
+            </sp>
+            <sp>
+               <speaker>P. <hi>Ruperts Dog.</hi>
+               </speaker>
+               <p>Now confirme it with an Oath in blowing your noſe backewards, and letting a fart, and ſay a fart for all Sectaries.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:158386:5"/>
+               <speaker>Toby Dog.</speaker>
+               <p>I will ſtraine hard but I will do it, there is a fart for them all.</p>
+            </sp>
+            <sp>
+               <speaker>Pr. Rup. Dog.</speaker>
+               <p>But I gave you no command to ſtink.</p>
+            </sp>
+            <sp>
+               <speaker>Toby Dog.</speaker>
+               <p>That makes the Obligation the ſtronger: is there any thing more to make me a perfect Cavallier.</p>
+            </sp>
+            <sp>
+               <speaker>Pr. Rup. Dog.</speaker>
+               <p>Yes, you muſt be beholding to a diſguiſe, for if you be a Ca<g ref="char:EOLhyphen"/>vallier you muſt weare long haire, I can helpe you to the wool of a Sheepes<g ref="char:EOLhyphen"/>head which will ſerve you very well for a Perewigg, and then I will preſent thee to my Maſter for a new and round, ſound Cavallier.</p>
+            </sp>
+            <sp>
+               <speaker>Toby Do.</speaker>
+               <l>Get me my diſguiſe, my mind is chang'd already, let us be friends,</l>
+               <l>For now old <hi>Tobies</hi> Dog doth thinke it better,</l>
+               <l>To change himſelfe to Cavallier <hi>Pepper.</hi>
+               </l>
+            </sp>
+         </div>
+         <div type="letter">
+            <head>The Challenge which Prince <hi>Griffins</hi> Dogge called <hi>Towzer,</hi> hath ſent to Prince <hi>Ruperts</hi> dog whoſe name is <hi>Puddle,</hi> daring him to meet him at the Pariſh Garden this preſent Lent to try a combate before the Worſhipfull the Beares, who are appointed to be their Judges in that Caſe.</head>
+            <p>THou worme of Wickedneſſe, fritter of Folly, ſpawn of doggedneſſe, and piece of mungrell ſtuffe; in regard of thy baſe grumbling words and baw<g ref="char:EOLhyphen"/>ling againſt thy betters. Beſides that, is honeſt <hi>Pepper</hi> Tobies <hi>Dogge</hi> your match, no, he is too milde for thee; thou ſhould have given notice of your Treaty and diſcourſe to me who am thy equall, thou ſhouldſt have found e<g ref="char:EOLhyphen"/>nough of me, for I will have thee know, that I eate as good Rumps and Kid<g ref="char:EOLhyphen"/>neyes as ever thou, baſe cur doſt: when I have you at the place appointed, I will ſo rump you, and ſo frump you, that I will leave you never a rumpe nor yet a kidney, no not with a heart as big as a hen or chickins: I doe now with open mouth defie thee and all thy proceedings, and doe challenge thee to meet me at the place before mentioned, there will I fight, tug, and teare thee in a ſin<g ref="char:EOLhyphen"/>gle combate, where I mean to read thee in pieces, and be revenged on thee baſe cur. And although I hear thou art impenitrable and likewiſe beſmeared o<g ref="char:EOLhyphen"/>ver with inchaunted oyle, ſo that no weapon, buller, nor ſword can enter thee to make thee bleed; yet I haue teeth which I have newly whetted ſhall ſo fe<g ref="char:EOLhyphen"/>ſten and teare your German or Fin-land hide limb-meale, and then flea thy skin and hang it on the hedg, &amp; give thy pomperd fleſh to thoſe Iudges which we are to fight before (namely the Worſhipfull the Bears,) to ſatisfie their hun<g ref="char:EOLhyphen"/>gry mawes this Lent; let me hear your dogged anſwer, or elſe I wil proclaim thee coward in print, and ſet thy name upon every whipping poſt and piſſing place, for all the dogs in the Town to lift up their legs to piſſe againſt: Expect no favour from mee, nor will I from you: I will end the difference, I wil have no Out-landiſh cur domineer in our Land. <hi>So ſaith your ſurley foe</hi> Towzer, <hi>and ſervant to Primes</hi> Criſſin.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
